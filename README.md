@@ -10,7 +10,11 @@ https://github.com/user-attachments/assets/4c2be540-dacf-4339-8d60-7f8d6d390147
 Asyncronous promise function fetched from npmjs.org maps json response stored in the data variable. Search loader function passes async promise-type function results to the Search Page by use of interface.
 
 Scraped results: 
-https://github.com/user-attachments/assets/5ac3064e-fa1a-4be9-aee0-74645c6373bf
+
+
+https://github.com/user-attachments/assets/94f2abd1-911a-47c9-9581-cc79315ef117
+
+
 
 Current website data comparison: 
 https://github.com/user-attachments/assets/d0ea26a0-5b2f-48c9-9458-0fbd923c44ed
