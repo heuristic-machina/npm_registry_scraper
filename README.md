@@ -27,7 +27,12 @@ https://github.com/user-attachments/assets/41f6bcb2-6dc0-46bb-a373-ec42a03aa02c
 3. The package details page calls the interface result stored from the asyncronous function request to the npmjs.org url. The package name is the search parameter used in the mapping function.
 
 Scraped package details page: 
-https://github.com/user-attachments/assets/302d205b-ca62-4b8f-b384-6f07e138c41d
+
+
+
+https://github.com/user-attachments/assets/57a37ef1-0f4f-44c0-a6b4-baecdff1f4d7
+
+
 
 Current website data comparison: 
 https://github.com/user-attachments/assets/fec5d834-6697-4324-8962-47229129dc6a
