@@ -17,7 +17,11 @@ https://github.com/user-attachments/assets/94f2abd1-911a-47c9-9581-cc79315ef117
 
 
 Current website data comparison: 
-https://github.com/user-attachments/assets/d0ea26a0-5b2f-48c9-9458-0fbd923c44ed
+
+
+
+https://github.com/user-attachments/assets/41f6bcb2-6dc0-46bb-a373-ec42a03aa02c
+
 
 
 3. The package details page calls the interface result stored from the asyncronous function request to the npmjs.org url. The package name is the search parameter used in the mapping function.
